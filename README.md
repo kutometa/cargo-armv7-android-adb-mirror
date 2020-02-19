@@ -132,5 +132,5 @@ Boston, MA 02111-1307, USA.
 Links
 -----
 
-* Git: https://code.ka.com.kw/miscellaneous/cargo-armv7-android-adb
+* Source Repository: https://code.ka.com.kw/miscellaneous/cargo-armv7-android-adb
 * Docker: https://hub.docker.com/r/kutometa/cargo-armv7-android-adb
