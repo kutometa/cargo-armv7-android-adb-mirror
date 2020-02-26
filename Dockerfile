@@ -1,7 +1,7 @@
 # This dockerfile sets up a cross-compilation environment for 
 # armv7 android over host ADB server. Rust 1.40.0.
 #
-# Copyright (C) 2020 Kutometa SPLC, Kuwait
+# Copyright (C) 2020 Kutometa SPC, Kuwait
 # License: LGPLv3 
 # www.ka.com.kw
 
